@@ -13,7 +13,7 @@ function drawPlatzi(color, stroke){
 	lienzo.arcTo(250,50,230,70,30);
 	lienzo.lineTo(70,230);
 	lienzo.arcTo(50,250,70,270,30);
-	lienzo.lineTo(220,420);
+	lienzo.lineTo(210,410);
 	lienzo.arcTo(235,435,260,410,30);
 	lienzo.lineTo(315,355);
 	lienzo.stroke();
